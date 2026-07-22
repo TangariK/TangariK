@@ -1,97 +1,92 @@
-# Kauã Tangari Campos
+### <div align="center">Oi — sou o Kauã. Se você caiu aqui, deixa eu te mostrar um pouco do que eu faço.</div>
 
-**Full-stack developer** em Contagem, Minas Gerais · trabalhando na **Ether Exchange**
+<br/>
 
-Construo produtos web e SaaS de ponta a ponta — do schema e das APIs até a interface. Tenho background em **automação**, foco em **código limpo**, arquitetura clara e entrega em produção. Atuo principalmente com **TypeScript**, **Next.js** e backends Node, com experiência também em **Python**, **Flutter/Dart** e integrações com **IA**.
+Full-stack developer em **Contagem, MG** · construindo produto na **Ether Exchange** (Crypto/Fintech).
 
----
+Background em **automação**, foco em **código limpo**, arquitetura clara e entrega em produção. Atuo principalmente com **TypeScript**, **Next.js** e backends Node — também com **Python**, **Flutter/Dart** e integrações com **IA**.
 
-## Resumo profissional
+<br/>
 
-Sou desenvolvedor full-stack com atuação em ambientes de produto real: plataformas web, painéis administrativos, APIs, sistemas multi-tenant e ferramentas internas. Na Ether Exchange participo do ecossistema de produtos (frontends, backends, superfícies de DEX/admin, logs e testes), sempre em TypeScript.
+**O que define meu jeito de trabalhar?**
 
-Além do trabalho em empresa, desenvolvo projetos próprios de SaaS e tooling — inventário multi-tenant, gestão operacional, finanças pessoais, chatbots com IA e apps mobile. Gosto de documentar decisões técnicas, organizar domínio (auth, tenancy, papéis) e deixar o projeto legível para humanos e para fluxos assistidos por IA.
+* 🧩 **Produto de ponta a ponta:** do schema e das APIs até a interface — não só tela, não só script.
+* 🧠 **Sempre aprendendo:** se envolve AI, automação ou stack nova, eu já estou testando.
+* 🏛️ **Arquitetura com pragmatismo:** clean code e padrões quando ajudam; flexível quando o prazo e o domínio pedem.
+* 🔐 **Cuidado com o que é sensível:** secrets fora do Git, auth bem feita, repositórios privados quando o IP exige.
 
-**O que busco transmitir no GitHub:** capacidade de entregar produto completo, não só telas ou só scripts — modelagem, autenticação, banco, deploy e manutenção.
+**Agora:**
 
----
+* Sistemas em produção na **Ether Exchange** (web apps, APIs, admin/DEX, qualidade)
+* **[Breshopping](https://github.com/TangariK/breshopping)** — SaaS multi-tenant para inventário de brechós
+* Cases técnicos em **[portfolio-cases](https://github.com/TangariK/portfolio-cases)** (write-ups, sem código proprietário)
 
-## O que estou fazendo agora
+> *"Não existe o que eu não sei — só o que eu ainda não aprendi."*
 
-- Sistemas em produção na **Ether Exchange** (web apps, APIs, admin/DEX, qualidade)
-- **[Breshopping](https://github.com/TangariK/breshopping)** — SaaS multi-tenant para gestão de inventário de brechós
-- Cases técnicos públicos em **[portfolio-cases](https://github.com/TangariK/portfolio-cases)** (write-ups, sem código proprietário)
-
----
+<br/>
 
 ## Destaques públicos
 
 | Projeto | Descrição |
 |---------|-----------|
-| **[breshopping](https://github.com/TangariK/breshopping)** | SaaS multi-tenant (Next.js + PostgreSQL + JWT em cookie httpOnly) — cadastro do negócio, inventário, catálogo e histórico de preços |
-| **[portfolio-cases](https://github.com/TangariK/portfolio-cases)** | Estudos de caso / arquitetura em Markdown — o que construí e por quê, sem expor repositórios privados |
+| **[breshopping](https://github.com/TangariK/breshopping)** | SaaS multi-tenant (Next.js + PostgreSQL + JWT) — inventário, catálogo e histórico de preços |
+| **[portfolio-cases](https://github.com/TangariK/portfolio-cases)** | Estudos de caso / arquitetura em Markdown — sem expor repos privados |
 
-> Grande parte do meu trabalho de produto permanece em repositórios **privados** (empresa e projetos pessoais). O que está público é o que pode ser revisado sem risco de IP ou dados sensíveis.
+<br/>
 
----
+## My Skill Set
 
-## Tecnologias que domino / uso no dia a dia
+### Main
 
-### Linguagens
-`TypeScript` · `JavaScript` · `Python` · `SQL` · `Dart` · `GDScript` (básico / hobby)
+<div align="center">
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.svg" alt="Next.js" height="50" /></a>
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
+</div>
 
-### Frontend
-`React` · `Next.js` (App Router) · `HTML/CSS` · `Tailwind CSS` · componentes orientados a produto · dashboards e painéis admin
+### Skills
 
-### Backend & APIs
-`Node.js` · APIs REST · autenticação **JWT** (cookies httpOnly) · validação com **Zod** · `bcrypt` / hashing · multi-tenant (slug / isolamento por negócio) · workers e jobs
+<div align="center">
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-original.svg" alt="Flutter" height="50" /></a>
+<a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+<a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/supabase.png" alt="Supabase" height="50" /></a>
+<a href="https://azure.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+<a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vercel.svg" alt="Vercel" height="50" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bash-original.svg" alt="Bash" height="50" /></a>
+</div>
 
-### Dados & BaaS
-`PostgreSQL` · `Supabase` (Auth, Postgres, Storage, RLS) · `Neon` · migrations SQL · modelagem relacional (usuários, tenants, histórico, estoque, finanças)
+<br/>
 
-### Infra, DevOps & qualidade
-`Docker` · `docker compose` · `Vercel` · `Cloudflare Workers` · variáveis de ambiente / secrets · lint (ESLint) · testes e suites em contexto de produto · documentação de arquitetura e versões
+**Também no dia a dia:** Zod · JWT · Neon · Cloudflare Workers · OpenAI · Evolution API (WhatsApp) · ESLint · Docker Compose
 
-### Mobile
-`Flutter` · `Dart` (apps com UI nativa — ex.: navegação / produto mobile)
+<br/>
 
-### IA & automações
-`OpenAI` (chat, intent, transcrição) · chatbots **WhatsApp** (Evolution API) · fluxos com **Supabase** · experiência com serviços **Azure AI** (Vision/OCR, Speech, Language, AI Search, Copilot) · automação de processos e tooling assistido por IA
+## Connect with me
 
-### Domínios de produto em que já atuei
-- Fintech / exchange / crypto (plataformas web em produção)
-- SaaS multi-tenant (inventário, operações, whitelabel)
-- E-commerce / catálogo / gestão operacional
-- Finanças pessoais e carteira de investimentos
-- Chatbots e atendimento conversacional
-- Conteúdo / landing / funis de venda
-- Assistentes com IA generativa (protótipos e hubs)
+<div align="center">
+<a href="https://github.com/TangariK" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/kauã-tangari-5b94021b3" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:kauatangari@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
+</a>
+</div>
 
-### Práticas que valorizo
-- Arquitetura legível (features, separação de responsabilidades, docs de versão)
-- Segurança básica feita direito (secrets fora do Git, service role só no server, cookies httpOnly)
-- README e docs que permitem subir o projeto sem “adivinhar”
-- Entregar MVP sólido e iterar com clareza do que faria diferente
+<br/>
 
----
-
-## Formação contínua & interesses
-
-- Arquitetura de SaaS e sistemas multi-tenant
-- Produto full-stack em TypeScript de ponta a ponta
-- IA aplicada a produto (não só demos)
-- Qualidade: testes, logs, observabilidade e documentação
-- Mobile com Flutter quando o caso pede app nativo
-
----
-
-## Contato
-
-- **LinkedIn:** [kauã-tangari](https://linkedin.com/in/kauã-tangari-5b94021b3)
-- **Email:** kauatangari@gmail.com
-- **GitHub:** [@TangariK](https://github.com/TangariK)
-- **Local:** Contagem, Minas Gerais, Brazil
-
----
-
-*Perfil focado em evidência pública segura. Para conversar sobre projetos privados ou cases de empresa, fale comigo pelo LinkedIn ou e-mail.*
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=TangariK&style=flat-square" alt="profile views" />
+</div>
